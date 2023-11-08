@@ -1,3 +1,4 @@
 Hari Pertama: Bootcamp terlihat santai saja.
 Hari kedua: kami belajar melakukan SELECT, FROM, dan WHERE
 Hari ketiga: kami bingung sekali dengan konsep JOIN.
+Hari keempat: Berikutnya kami mencoba Sub Query dan CTE.
