@@ -1,1 +1,2 @@
 Hari Pertama: Bootcamp terlihat santai saja.
+Hari kedua: kami belajar melakukan SELECT, FROM, dan WHERE
