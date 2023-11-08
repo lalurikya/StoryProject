@@ -2,3 +2,4 @@ Memulai Project
 
 Cerita Pertama.
 Cerita Kedua ini adalah baris kedua.
+Cerita ketiga berlanjut.
