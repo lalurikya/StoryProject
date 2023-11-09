@@ -5,3 +5,4 @@ Hari keempat: Berikutnya kami mencoba Sub Query dan CTE.
 Hari kelima: Lalu kami belajar structure baru, namanya view.
 Hari keenam: Lalu kami belajar function.
 Hari ketujuh: Lalu kami belajar DDL. 
+Hari kedelapan: Lalu kami diberikan ujian ERD yang membingungkan.
