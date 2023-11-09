@@ -7,3 +7,4 @@ Hari keenam: Lalu kami belajar function.
 Hari ketujuh: Lalu kami belajar DDL. 
 Hari kedelapan: Lalu kami diberikan ujian ERD yang membingungkan.
 Hari kesembilan: Lalu kami belajar DML untuk INSERT INTO, UPDATE dan DELETE.
+Hari kesepuluh: Lalu kami belajar PL seperti membuat variable dan conditional.
