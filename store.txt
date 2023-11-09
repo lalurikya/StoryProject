@@ -1,1 +1,2 @@
 Store index selesai.
+Store upsert selesai.
